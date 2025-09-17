@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="simmerVerb.png" alt="Music Genre Classification Logo" width="300"/>
+</p>
+
 # ShimmerVerb (JUCE) – No-GUI (Generic GUI)
 
 A cinematic shimmer reverb using **ZitaRev core** + **granular pitch-shift layers** (octave, fifth, etc).  
